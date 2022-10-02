@@ -2,7 +2,7 @@
 Mi nombre es Ruddy Rodriguez Arguedas actualmente soy estudiante en la Universidad Fidelitas de costa rica, me encuentro en la carrera de ing. sistemas de la computación
 
 # ✨ Mi Experiencia
-Mis experiencias son limitadas a lo técnico y académico, aun no he tenido la oportunidad de desarrollar para ninguna organización en específico, tampoco he colaborado en grandes proyectos, únicamente a nivel universitario.
+He desarrollado algunos proyectos, entre los que se encuentran la colaboración en un proyecto colaborativo sobre el desarrollo de una aplicación móvil en React Native para iOS como Android, aplicaciones web con frameworks como .net core y laravel. También me encuentro desarrollando un videojuego 3D en el motor grafico Unity.
 
 # 🌱Conocimientos
 Actualmente me encuentro programando en c# desarrollando proyectos personales en el sector web.

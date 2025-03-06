@@ -1,52 +1,35 @@
-# 👋 Hola
-Mi nombre es Ruddy Rodriguez Arguedas actualmente soy estudiante en la Universidad Fidelitas de costa rica, me encuentro en la carrera de ing. sistemas de la computación
+# 👋 Hi there! I'm Ruddy Rodríguez Arguedas  
 
-# ✨ Mi Experiencia
-He desarrollado algunos proyectos, entre los que se encuentran la colaboración en un proyecto colaborativo sobre el desarrollo de una aplicación móvil en React Native para iOS como Android, aplicaciones web con frameworks como .net core y laravel. También me encuentro desarrollando un videojuego 3D en el motor grafico Unity.
+🚀 **Full Stack Developer** | Passionate about building scalable, efficient, and user-friendly applications.  
 
-# 🌱Conocimientos
-Actualmente me encuentro programando en c# desarrollando proyectos personales en el sector web.
+I specialize in **React, TypeScript, .NET, and SQL**, focusing on problem-solving, performance optimization, and enhancing UX/UI with clean, maintainable code.  
 
-## Lenguajes de programación:
-- C#
-- JavaScript
-- Java
-- Python
-- PHP
+---
 
-## Librerias:
-- Bootstrap
-- React
-- React Native
+## 🔹 About Me  
+💡 I have experience in **web and mobile development**, test automation, and improving software efficiency.  
+🎯 My goal is to refine my skills, implement **CI/CD strategies**, and drive innovation in software development.  
+🌍 Passionate about learning from open-source projects and collaborating with developers worldwide.  
 
-## Frameworks:
-- Laravel 💖
-- .NET Core
+---
 
-## Base de datos:
-- SQL Server y MySQL 
+## 🛠 Tech Stack  
 
-## Herramientas colaborativas:
-- Git y GitHub
+- **Languages:** C#, JavaScript, Java, Python, PHP  
+- **Frontend:** React, React Native, Bootstrap  
+- **Backend:** .NET Core, Laravel  
+- **Databases:** SQL Server, MySQL  
+- **Tools & Collaboration:** Git, GitHub, Agile (Scrum, Kanban)  
+- **Other Skills:** UX/UI, software architecture, automation  
 
-## Modelos de desarrollo:
+---
 
-- Scrum
+## 📫 Contact Me  
 
-## Otros: 
-- UX y UI
+- 📧 **Email:** [ruddrodria99@gmail.com](mailto:ruddrodria99@gmail.com)  
+- 💬 **Telegram:** [@RuddyRA](https://t.me/RuddyRA)  
+- 💻 **GitHub:** [github.com/RuddyRA](https://github.com/RuddyRA)  
 
+---
 
-# 👀 Intereses
-Entre mis principales intereses se encuentra el desarrollo colaborativo y lectura de códigos de otros desabolladores y enfrentarme a problemas los cuales en ocasiones propongo una solución o colaboro en una ya existente.
-- también observo mucho software ya implementado en el mercado y trato de comprender su funcionamiento a nivel técnico como en el impacto que estos generan en la sociedad, a mi parecer eso proporciona un pensamiento más critico al momento de desarrollar mis propios proyectos o bien aportar ideas al momento de estar trabajando en algún equipo de trabajo.
-
-# 📫 Contactos
-- Correo electrónico personal: ruddrodria99@gmail.com
-- Telegram: @RuddyRA
-
-<!---
-RuddyJRA99/RuddyJRA99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+🚀 _Always learning, always building!_  
